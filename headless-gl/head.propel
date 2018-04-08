@@ -1,0 +1,5 @@
+commit 412f16efe43c2fc62a73f5138756e918be842694
+Author: Benjamin Dobell <benjamin.dobell+github@glassechidna.com.au>
+Date:   Thu Dec 7 23:52:50 2017 +1100
+
+    Support HTML elements as textures when DOM/canvas are available (#87)
